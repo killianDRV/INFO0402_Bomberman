@@ -1,0 +1,5 @@
+W,MB,PU,w,W, ,W, ,SC, ,w,X, ,W, ,
+W,#, ,#, ,#,ML,#,W,#, ,#, ,#, ,
+ ,P,w,w,M,PU,w,M,G,W,B,W, ,MB,w,
+ ,#, ,#,w,#, ,#,SP,#,ML,#,W,#, ,
+ , ,W,SC, ,W, ,w, , ,W, , ,w,SP,

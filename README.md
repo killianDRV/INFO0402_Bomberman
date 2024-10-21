@@ -16,7 +16,7 @@ Lancer le jeu :
 ```
 
 ## Règle
-[Règle du jeu](/code/regles.md)
+[Règle du jeu](/Code/regles.md)
 
 ## Légende
 ![alt text](images/image_legende.png)

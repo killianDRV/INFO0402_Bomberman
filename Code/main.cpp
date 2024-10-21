@@ -58,7 +58,7 @@ int menuGeneral()
 */
 void affichageRegles()
 {
-    ifstream fichier("regles.txt");
+    ifstream fichier("regles.md");
 
     cout << "\n\n\nVoici les règles du jeu :" << endl;
 
